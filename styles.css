@@ -5,4 +5,5 @@ height: 10%;
 
 .container{
     display: flexbox;
+    align-items: flex-start;
 }
